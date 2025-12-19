@@ -1,0 +1,202 @@
+[
+  {
+    "id": "1",
+    "name": "Wireless Bluetooth Headphones",
+    "description": "High-quality wireless headphones with noise cancellation, 30-hour battery life, and superior sound quality. Perfect for music lovers and professionals.",
+    "price": 89.99,
+    "category": "Electronics",
+    "imageUrl": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&h=500&fit=crop",
+    "rating": 4.5,
+    "reviews": 1250
+  },
+  {
+    "id": "2",
+    "name": "Smart Watch Pro",
+    "description": "Advanced smartwatch with fitness tracking, heart rate monitor, GPS, and 7-day battery life. Water-resistant and stylish.",
+    "price": 199.99,
+    "category": "Electronics",
+    "imageUrl": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&h=500&fit=crop",
+    "rating": 4.7,
+    "reviews": 890
+  },
+  {
+    "id": "3",
+    "name": "Men's Casual T-Shirt",
+    "description": "100% cotton comfortable t-shirt available in multiple colors. Perfect for everyday wear, breathable and durable.",
+    "price": 19.99,
+    "category": "Fashion",
+    "imageUrl": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=500&h=500&fit=crop",
+    "rating": 4.2,
+    "reviews": 567
+  },
+  {
+    "id": "4",
+    "name": "Running Shoes",
+    "description": "Lightweight running shoes with cushioned sole and breathable mesh. Ideal for jogging, gym, and sports activities.",
+    "price": 79.99,
+    "category": "Fashion",
+    "imageUrl": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=500&h=500&fit=crop",
+    "rating": 4.6,
+    "reviews": 2340
+  },
+  {
+    "id": "5",
+    "name": "Portable Bluetooth Speaker",
+    "description": "Compact wireless speaker with 360° sound, 12-hour battery, and waterproof design. Perfect for outdoor adventures.",
+    "price": 49.99,
+    "category": "Electronics",
+    "imageUrl": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=500&h=500&fit=crop",
+    "rating": 4.4,
+    "reviews": 780
+  },
+  {
+    "id": "6",
+    "name": "Leather Wallet",
+    "description": "Genuine leather wallet with multiple card slots and coin pocket. Elegant design for men and women.",
+    "price": 29.99,
+    "category": "Fashion",
+    "imageUrl": "https://images.unsplash.com/photo-1627123424574-724758594e93?w=500&h=500&fit=crop",
+    "rating": 4.3,
+    "reviews": 450
+  },
+  {
+    "id": "7",
+    "name": "Coffee Maker Machine",
+    "description": "Automatic coffee maker with programmable timer, 12-cup capacity, and keep-warm function. Makes perfect coffee every time.",
+    "price": 69.99,
+    "category": "Home",
+    "imageUrl": "https://images.unsplash.com/photo-1517668808822-9ebb02f2a0e6?w=500&h=500&fit=crop",
+    "rating": 4.5,
+    "reviews": 320
+  },
+  {
+    "id": "8",
+    "name": "LED Desk Lamp",
+    "description": "Adjustable LED desk lamp with touch control, 3 brightness levels, and USB charging port. Energy-efficient and modern.",
+    "price": 34.99,
+    "category": "Home",
+    "imageUrl": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500&h=500&fit=crop",
+    "rating": 4.6,
+    "reviews": 890
+  },
+  {
+    "id": "9",
+    "name": "Laptop Backpack",
+    "description": "Durable backpack with padded laptop compartment (up to 15.6\"), multiple pockets, and water-resistant material.",
+    "price": 44.99,
+    "category": "Fashion",
+    "imageUrl": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=500&h=500&fit=crop",
+    "rating": 4.4,
+    "reviews": 670
+  },
+  {
+    "id": "10",
+    "name": "Wireless Mouse",
+    "description": "Ergonomic wireless mouse with adjustable DPI, silent clicks, and long battery life. Compatible with all devices.",
+    "price": 24.99,
+    "category": "Electronics",
+    "imageUrl": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=500&h=500&fit=crop",
+    "rating": 4.3,
+    "reviews": 1120
+  },
+  {
+    "id": "11",
+    "name": "Yoga Mat",
+    "description": "Premium non-slip yoga mat with extra thickness for comfort. Eco-friendly material, perfect for yoga and fitness.",
+    "price": 39.99,
+    "category": "Sports",
+    "imageUrl": "https://images.unsplash.com/photo-1601925260368-ae2f83cf8b7f?w=500&h=500&fit=crop",
+    "rating": 4.7,
+    "reviews": 540
+  },
+  {
+    "id": "12",
+    "name": "Water Bottle",
+    "description": "Stainless steel insulated water bottle keeps drinks cold for 24 hours, hot for 12 hours. BPA-free and leak-proof.",
+    "price": 19.99,
+    "category": "Sports",
+    "imageUrl": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=500&h=500&fit=crop",
+    "rating": 4.5,
+    "reviews": 890
+  },
+  {
+    "id": "13",
+    "name": "Kitchen Knife Set",
+    "description": "Professional 8-piece stainless steel knife set with wooden block. Sharp, durable, and perfect for all cutting tasks.",
+    "price": 89.99,
+    "category": "Home",
+    "imageUrl": "https://images.unsplash.com/photo-1593618998160-e34014e67546?w=500&h=500&fit=crop",
+    "rating": 4.8,
+    "reviews": 430
+  },
+  {
+    "id": "14",
+    "name": "Sunglasses",
+    "description": "UV400 protection polarized sunglasses with stylish frame. Reduces glare and protects eyes from harmful rays.",
+    "price": 34.99,
+    "category": "Fashion",
+    "imageUrl": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=500&h=500&fit=crop",
+    "rating": 4.2,
+    "reviews": 720
+  },
+  {
+    "id": "15",
+    "name": "Phone Case",
+    "description": "Shockproof phone case with raised edges for screen protection. Slim design with precise cutouts.",
+    "price": 14.99,
+    "category": "Electronics",
+    "imageUrl": "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?w=500&h=500&fit=crop",
+    "rating": 4.4,
+    "reviews": 1560
+  },
+  {
+    "id": "16",
+    "name": "Gaming Keyboard",
+    "description": "Mechanical gaming keyboard with RGB backlight, programmable keys, and anti-ghosting. Perfect for gamers.",
+    "price": 79.99,
+    "category": "Electronics",
+    "imageUrl": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=500&h=500&fit=crop",
+    "rating": 4.6,
+    "reviews": 934
+  },
+  {
+    "id": "17",
+    "name": "Table Lamp",
+    "description": "Modern minimalist table lamp with warm LED light. Perfect for bedroom, living room, or office decoration.",
+    "price": 29.99,
+    "category": "Home",
+    "imageUrl": "https://images.unsplash.com/photo-1513506003901-1e6a229e2d15?w=500&h=500&fit=crop",
+    "rating": 4.5,
+    "reviews": 287
+  },
+  {
+    "id": "18",
+    "name": "Denim Jacket",
+    "description": "Classic denim jacket with button closure. Versatile and timeless fashion piece for all seasons.",
+    "price": 59.99,
+    "category": "Fashion",
+    "imageUrl": "https://images.unsplash.com/photo-1576995853123-5a10305d93c0?w=500&h=500&fit=crop",
+    "rating": 4.4,
+    "reviews": 512
+  },
+  {
+    "id": "19",
+    "name": "Digital Camera",
+    "description": "24MP digital camera with 4K video recording, image stabilization, and WiFi connectivity. Perfect for photography enthusiasts.",
+    "price": 399.99,
+    "category": "Electronics",
+    "imageUrl": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?w=500&h=500&fit=crop",
+    "rating": 4.8,
+    "reviews": 678
+  },
+  {
+    "id": "20",
+    "name": "Resistance Bands Set",
+    "description": "5-piece resistance bands set with different strength levels. Ideal for home workouts, strength training, and physical therapy.",
+    "price": 24.99,
+    "category": "Sports",
+    "imageUrl": "https://images.unsplash.com/photo-1598289431512-b97b0917affc?w=500&h=500&fit=crop",
+    "rating": 4.6,
+    "reviews": 845
+  }
+]

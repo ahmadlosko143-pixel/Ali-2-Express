@@ -1,0 +1,24 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(flutter analyze:*)",
+      "Bash(del:*)",
+      "Bash(ren:*)",
+      "Bash(dir:*)",
+      "Bash(flutter doctor:*)",
+      "Bash(flutter clean:*)",
+      "Bash(flutter pub get:*)",
+      "Bash(flutter build:*)",
+      "mcp__ide__getDiagnostics",
+      "Bash(if [ -f \"nul\" ])",
+      "Bash(then del nul)",
+      "Bash(fi)",
+      "Bash(find:*)",
+      "Bash(dart format:*)",
+      "Bash(git config:*)",
+      "Bash(git add:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

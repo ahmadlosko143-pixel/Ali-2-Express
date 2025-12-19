@@ -135,7 +135,7 @@ assets/
 
 ## Key Features
 
-- ✅ No backend required - all data stored locally
+- ✅FireBase backend with automate authentication and data save
 - ✅ Material 3 design system
 - ✅ Persistent shopping cart
 - ✅ Admin product management
